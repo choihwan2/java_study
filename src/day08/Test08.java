@@ -2,7 +2,7 @@ package day08;
 
 public class Test08 {
 	public static void main(String[] args) {
-//		T[] t = {new Circle_8(), new Rectangle_8()};
+		T[] t = {new Circle_8(), new Rectangle_8()};
 	}
 }
 interface T extends Drawable,Moveable{

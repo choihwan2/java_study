@@ -5,7 +5,6 @@ public class Test02 {
 		SingleTone s = SingleTone.getInstance();	//처음은 객체 생성 그다음 하나만 만들어지고 계속 사용가능.
 		System.out.println(s);
 	}
-
 }
 
 class SingleTone {
